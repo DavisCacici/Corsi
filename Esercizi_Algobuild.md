@@ -1,5 +1,4 @@
 ## Esercizi AlgoBuild
-Ecco 10 esercizi per principianti utilizzando Algobuild, con input, output e processo descritti in dettaglio:
 
 **Esercizio 1:** Somma di due numeri  
 - **Input:** Due numeri interi inseriti dall'utente.  
@@ -12,11 +11,11 @@ Ecco 10 esercizi per principianti utilizzando Algobuild, con input, output e pro
 
 **Esercizio 2:** Controllo pari o dispari  
 - **Input:** Un numero intero.  
-- **Output:** "Pari" se il numero è pari, altrimenti "Dispari".  
+- **Output:** `Pari` se il numero è pari, altrimenti `Dispari`.  
 - **Processo:**  
   1. Leggi il numero (es. `n`).  
-  2. Se `n % 2 == 0`, stampa "Pari".  
-  3. Altrimenti, stampa "Dispari".  
+  2. Se `n % 2 == 0`, stampa `Pari`.  
+  3. Altrimenti, stampa `Dispari`.  
 
 **Esercizio 3:** Area di un rettangolo  
 - **Input:** Base e altezza (due numeri decimali).  
@@ -94,9 +93,9 @@ ________________________________________
 - **Output:** Tipo di triangolo (Equilatero, Isoscele, Scaleno o Non valido)
 - **Processo:**
     1.	Leggi i tre lati (a, b, c)
-    2.	Se a + b > c E b + c > a E a + c > b:
-        - Se a = b E b = c → "Equilatero"
-        - Altrimenti se a = b O b = c O a = c → "Isoscele"
+    2.	Se `a + b > c` E `b + c > a` E `a + c > b`:
+        - Se `a = b` E `b = c` → "Equilatero"
+        - Altrimenti se `a = b` O `b = c` O `a = c` → "Isoscele"
         - Altrimenti → "Scaleno"
     3.	Altrimenti → "Non valido"
 
