@@ -1,3 +1,10 @@
+"""
+Avendo 2 numeri in input scopri qual è il loro rapporto:
+    - se n1 è maggiore di n2
+    - se n1 è uguale di n2
+    - se n1 è minore di n2
+"""
+
 n1 = int(input("Inserisci il primo numero: "))
 n2 = int(input("Inserisci il secondo numero: "))
 
