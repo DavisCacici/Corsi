@@ -1,10 +1,12 @@
 #Esercizio n°1
 """
-Completa la funzione square_sum che eleva al quadrato tutti gli elementi nell'array e li somma tra di loro per ottenere il risultato.
+Completa la funzione square_sum che eleva al quadrato 
+tutti gli elementi nell'array e 
+li somma tra di loro per ottenere il risultato.
 
 Per esempio, per [1, 2, 2] dovrebbe ritornare 9  
 
-def square_sum(numbers: List[int]): -> int
+def square_sum(numbers: List[int]) -> int:
     pass
 
 """
@@ -16,14 +18,16 @@ Avendo una lista o un stringa in input, crea la funzione next_item che:
     -   lista o stringa
     -   Elemento dalla quale partire per cercare il suo successivo
 -   output:
-    -   Se dovesse essere l'ultimo elemento o il secondo input non dovesse trovarsi nella lista ritornare None
-    -   
+    -   Se dovesse essere l'ultimo elemento o non dovesse trovarsi 
+        nella lista ritornare None
 
 next_item([1, 2, 3, 4, 5, 6, 7], 3) # => 4
 next_item(['Joe', 'Bob', 'Sally'], 'Bob') # => "Sally" 
+next_item(['Joe', 'Bob', 'Sally'], 'Sally') # => None 
 next_item('testing', 't') # => 'e'
+next_item('testing', 'a') # => None
 
-def next_item(array: List[Any] | str, item: ) -> int | str
+def next_item(array: Any, item: Any) -> Any:
     pass
 """
 
@@ -34,7 +38,7 @@ Questa funzione semplicemente ritorna una risposta in base all'input,
 se le viene passato 42 ritorna "everything", se gli viene passato 42 * 42 ritorna 'everything squared'
 altrimenti ritorna 'nothing', ma in questa funzione c'è un errore risolvilo
 
-def what_is(x: int): -> str
+def what_is(x: int) -> str:
     if x is 42:
         return 'everything'
     elif x is 42 * 42:
@@ -51,7 +55,7 @@ a2 + b2 = c2
 
 Ritorna True o False se è possibile o meno
 
-def pythagorean_triple(integers: List[int]): -> bool
+def pythagorean_triple(integers: List[int]) -> bool:
     pass
 """
 
@@ -62,7 +66,7 @@ Scrivi una funzione che determini se la stringa contiente l'intera parola 'Engli
 L'ordine dei carattere è importante -- una stringa "abcEnglishdef" è corretta ma "abcnEglishsef" non lo è.
 Maiuscolo o minuscole non importa -- "eNglisH" è comunque corretto.
 
-def sp_eng(sentence: str): -> bool
+def sp_eng(sentence: str) -> bool:
     pass
 """
 
@@ -71,7 +75,7 @@ def sp_eng(sentence: str): -> bool
 Avendo un numero in input moltiplicalo per 8 se positivo
 se negativo moltiplicalo per 9
 
-def simple_multiplication(number: int): -> int
+def simple_multiplication(number: int) -> int:
     pass
 """
 
@@ -90,7 +94,7 @@ Per esempio:
 
 La risposta corretta è 17
 
-def count_sheeps(array_of_sheep: List[bool]): -> int
+def count_sheeps(array_of_sheep: List[bool]) -> int:
     pass
 """
 
@@ -104,7 +108,7 @@ Esempio:
 6, "I"      -> "IIIIII"
 5, "Hello"  -> "HelloHelloHelloHelloHello"
 
-def repeat_str(repeat: int, string: str): -> str
+def repeat_str(repeat: int, string: str) -> str:
     pass
 """
 
@@ -120,7 +124,7 @@ Per esempio:
 2 -> 3 (1 + 2)
 8 -> 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
 
-def summation(num: int): -> int
+def summation(num: int) -> int:
     pass
 """
 
@@ -131,7 +135,7 @@ Per esempio:
     find_smallest_int([34, 15, 88, 2]) -> 2
     find_smallest_int([34, -345, -1, 100]) -> -345
     
-def find_smallest_int(arr: List[int]): -> int
+def find_smallest_int(arr: List[int]) -> int:
     pass
 """
 
