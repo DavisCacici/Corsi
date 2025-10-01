@@ -35,7 +35,8 @@ def next_item(array: Any, item: Any) -> Any:
 """
 Risolvi il problema della funzione seguente.
 Questa funzione semplicemente ritorna una risposta in base all'input, 
-se le viene passato 42 ritorna "everything", se gli viene passato 42 * 42 ritorna 'everything squared'
+se le viene passato 42 ritorna "everything", se gli viene passato 42 * 42 
+ritorna 'everything squared'
 altrimenti ritorna 'nothing', ma in questa funzione c'è un errore risolvilo
 
 def what_is(x: int) -> str:
@@ -51,7 +52,7 @@ def what_is(x: int) -> str:
 """
 Avendo un disordinato array di 3 interi positivi [n1, n2, n3], determina se è possibile formare 
 una terna pitagorica usando questi 3 interi con la seguente formula
-a2 + b2 = c2
+a**2 + b**2 = c**2
 
 Ritorna True o False se è possibile o meno
 
