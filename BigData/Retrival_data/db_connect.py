@@ -16,7 +16,7 @@ try:
     cursor = conn.cursor()
 
     # Example query
-    cursor.execute("SELECT COUNT(*) FROM dbo.AddettoBase")
+    cursor.execute("SELECT Top 10 Oid FROM dbo.AddettoBase")
     print(cursor.fetchall())
 
     # with open('file.txt', "at") as f:

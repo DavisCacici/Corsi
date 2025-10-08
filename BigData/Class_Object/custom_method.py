@@ -22,9 +22,9 @@ class Person:
     
     def stampa_saluti(self):
         print(self.salutare())
-
+#-----------------------------------------------------------
 persona = Person("Stefano", "Rossi")
-print(persona.salutare())
+# print(persona.salutare())
 persona.stampa_saluti()
 
 # Modify property
@@ -32,3 +32,5 @@ persona.cognome = "Pingo"
 print(persona.cognome)
 # You can delete objects by using the del keyword:
 del persona
+
+# print(persona)

@@ -6,7 +6,14 @@ class Person:
     nome = "Stefano"
     cognome = "Rossi"
     
+#--------------------------------------------------------
 persona = Person()
+persona2 = Person()
+persona3 = Person()
 print(persona)
 print(persona.nome)
 print(persona.cognome)
+print(persona2.nome)
+print(persona2.cognome)
+print(persona3.nome)
+print(persona3.cognome)

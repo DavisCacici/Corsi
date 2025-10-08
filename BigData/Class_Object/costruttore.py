@@ -16,6 +16,10 @@ class Person:
         self.nome = name
         self.cognome = surname
         
-persona = Person("Stefano", "Rossi")
-print(persona.nome)
-print(persona.cognome)
+persona = Person("Mario", "Rossi")
+persona.nome = 'Stefano'
+persona2 = Person("Marco", "Rossi")
+persona3 = Person("Marco", "Versi")
+print(persona.nome, persona.cognome)
+print(persona2.nome, persona2.cognome)
+print(persona3.nome, persona3.cognome)

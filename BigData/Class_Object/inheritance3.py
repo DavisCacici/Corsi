@@ -11,6 +11,16 @@ class Student(Person):
     def welcome(self):
         print("Welcome", self.firstname, self.lastname, "to the class of", self.graduation_year)
         
+    #Example Override
+    def printname(self):
+        print(self.firstname, self.lastname, self.graduation_year)
+        
+        
 s = Student("Pino", "Daniele", 2004)
 print(s.graduation_year)
+s.printname()
 s.welcome()
+
+
+p = Person("Costantine", "Jovi")
+p.printname()

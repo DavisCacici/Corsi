@@ -16,7 +16,7 @@ class Person:
     print(self.firstname, self.lastname)
 
 x = Person("John", "Doe")
-x.printname()
+# x.printname()
 
 # To create a class that inherits the functionality from another class, 
 # send the parent class as a parameter when creating the child class
@@ -25,4 +25,4 @@ class Student(Person):
   pass
 
 s = Student("Mike", "Olsen")
-s.printname()
+# s.printname()
