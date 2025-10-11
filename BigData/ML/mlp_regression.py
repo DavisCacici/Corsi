@@ -13,8 +13,9 @@ from sklearn.metrics import mean_absolute_error, r2_score
 # 5. Effetti soglia (es: sotto 0°C consumo aumenta esponenzialmente)
 
 # Carica il dataset
-df = pd.read_csv('dati_MLPRegression.csv')
+df = pd.read_csv('./dataset/dati_MLPRegression.csv')
 
+print(df.info())
 
 # Prepara i dati per MLPRegressor
 X = df.drop('consumo_energia', axis=1)

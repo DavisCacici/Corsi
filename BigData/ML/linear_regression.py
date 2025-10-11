@@ -27,12 +27,18 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 # 5. Create and train the model
-model = LinearRegression()
+"""
+It is possible to constrain all the coefficients to be non-negative, 
+which may be useful when they represent some physical or naturally non-negative quantities 
+(e.g., frequency counts or prices of goods). 
+LinearRegression accepts a boolean positive parameter: when set to True
+"""
+model = LinearRegression(positive=True)
 model.fit(X_train, y_train)
 # Save model
-dump(model, "first_model.joblib")
+dump(model, "LinearRegression.joblib")
 # Load model
-# model = load('first_model.joblib')
+# model = load('LinearRegression.joblib')
 # 6. Predict on test set
 y_pred = model.predict(X_test)
 
