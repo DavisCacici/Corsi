@@ -26,7 +26,7 @@ new_df = df.dropna()
 print(new_df.to_string())
 
 #if you want change original DataFrame use inplace = True
-#df.dropna(inplace = True)
+# df.dropna(inplace = True)
 
 """
 Another way of dealing with empty cells is to insert a new value instead.
@@ -37,7 +37,7 @@ print("-------------------------------------------")
 fill_df = df.fillna(130)
 print(fill_df.to_string())
 
-#or for specific column
+# #or for specific column
 print("-------------------------------------------")
 fill_df = df.fillna({"Calories":130})
 print(fill_df.to_string())
@@ -92,10 +92,9 @@ print("-------------------------------------------")
 for x in df.index:
     if df.loc[x, "Duration"] > 120:
         df.loc[x, "Duration"] = 120
-
+print(df.to_string())
 """
 Or you could remove all rows that contains wrong data.
-
 """
 print("-------------------------------------------")
 for x in df.index:

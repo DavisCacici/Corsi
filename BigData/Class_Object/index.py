@@ -11,6 +11,7 @@ persona = Person()
 persona2 = Person()
 persona3 = Person()
 print(persona)
+persona.nome = "Mario"
 print(persona.nome)
 print(persona.cognome)
 print(persona2.nome)

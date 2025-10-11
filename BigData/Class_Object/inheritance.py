@@ -25,4 +25,5 @@ class Student(Person):
   pass
 
 s = Student("Mike", "Olsen")
+# print(s)
 # s.printname()
