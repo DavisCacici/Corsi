@@ -1,6 +1,5 @@
 # =============================================================================
 # MULTIPLE LINEAR REGRESSION FOR HOUSE PRICE PREDICTION
-# Simplified version without numpy and matplotlib
 # =============================================================================
 
 import pandas as pd

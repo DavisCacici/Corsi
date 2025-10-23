@@ -1,4 +1,4 @@
-# Import library
+# Import library pandas, scikit-learn, joblib
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
@@ -22,9 +22,16 @@ y = df['Salary']        # target
 
 # 4. Divide in training and test set 
 # 80% training set and 20% test set
+#X_train = dati feature di addestramento(dati indipendenti)
+#X_test = dati feature per la predizione del modello (dati indipendenti)
+#y_train = dati target di addestramento(dati dipendenti)
+#y_test = dati target per valutare l'accuratezza delle predizioni(dati dipendenti)
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
 )
+
+# print(y_test)
+
 
 # 5. Create and train the model
 """
@@ -83,6 +90,6 @@ print("\nConfronto predizioni vs valori reali:")
 print(results.head())
 
 # 9. Example of prediction on new data
-# nuovo_dato = pd.DataFrame({'Experience': [5]}) 
-# predizione = model.predict(nuovo_dato)
-# print(f"\nPredizione per Experience=5: {predizione[0]:.2f}")
+nuovo_dato = pd.DataFrame({'Experience': [5]}) 
+predizione = model.predict(nuovo_dato)
+print(f"\nPredizione per Experience=5: {predizione[0]:.2f}")

@@ -138,7 +138,7 @@ coefficients = model.coef_[0]
 feature_importance = pd.DataFrame({
     'Feature': X.columns,
     'Coefficient': coefficients,
-    'Abs_Coefficient': np.abs(coefficients)
+    # 'Abs_Coefficient': np.abs(coefficients)
 }).sort_values('Abs_Coefficient', ascending=False)
 
 print("\n📊 IMPORTANZA DELLE FEATURE (Coefficienti):")
