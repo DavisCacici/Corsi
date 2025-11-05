@@ -1,0 +1,948 @@
+[
+  {
+    "parte": {
+      "id": "15810100580",
+      "descrizione": "FROR/2 GR 10 X 0,75 mat.100 m",
+      "giacenza": {
+        "qta": 400,
+        "qta_disponibile": 400,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "1580405058015",
+      "descrizione": "FROR/2 GR 4X0,50 A/SPECIFICA m. 100",
+      "giacenza": {
+        "qta": 100,
+        "qta_disponibile": 100,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15808040580",
+      "descrizione": "FROR/2 GR 8 X 0,35 mat.100 m",
+      "giacenza": {
+        "qta": 300,
+        "qta_disponibile": 300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15003040580",
+      "descrizione": "FROR/2 GR 3 G 0,35 mat.100 m",
+      "giacenza": {
+        "qta": 600,
+        "qta_disponibile": 600,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15812030580",
+      "descrizione": "FROR/2 GR 12 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 700,
+        "qta_disponibile": 700,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15805030580",
+      "descrizione": "FROR/2 GR 5 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 1100,
+        "qta_disponibile": 1100,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5004200380",
+      "descrizione": "FS18OR18 MAR 4 X 1,50 mat. 100m",
+      "giacenza": {
+        "qta": 200,
+        "qta_disponibile": 200,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15002200580",
+      "descrizione": "FROR/2  GR  2 X   1,50      Mat.100",
+      "giacenza": {
+        "qta": 1100,
+        "qta_disponibile": 1100,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5112200380",
+      "descrizione": "FS18OR18 MAR 12 G 1,50 mat. 100m",
+      "giacenza": {
+        "qta": 100,
+        "qta_disponibile": 100,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15810030580",
+      "descrizione": "FROR/2 GR 10 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 100,
+        "qta_disponibile": 100,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4803200380",
+      "descrizione": "FS18OR18 450/750 MAR 3X1,50 m.100m",
+      "giacenza": {
+        "qta": 1600,
+        "qta_disponibile": 1600,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5104100380",
+      "descrizione": "FS18OR18 MAR 4 G 0,75 mat. 100m",
+      "giacenza": {
+        "qta": 4300,
+        "qta_disponibile": 4300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5104100380",
+      "descrizione": "FS18OR18 MAR 4 G 0,75 mat. 100m",
+      "giacenza": {
+        "qta": 4300,
+        "qta_disponibile": 4300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15816040580",
+      "descrizione": "FROR/2 GR 16 X 0,35 mat.100 m",
+      "giacenza": {
+        "qta": 100,
+        "qta_disponibile": 100,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15806030580",
+      "descrizione": "FROR/2 GR 6 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 400,
+        "qta_disponibile": 400,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5003150380",
+      "descrizione": "FS18OR18 MAR 3 X 1 mat. 100m",
+      "giacenza": {
+        "qta": 4400,
+        "qta_disponibile": 4400,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15810040580",
+      "descrizione": "FROR/2 GR 10 X 0,35 mat.100 m",
+      "giacenza": {
+        "qta": 100,
+        "qta_disponibile": 100,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15806040580",
+      "descrizione": "FROR/2 GR 6 X 0,35 mat.100 m",
+      "giacenza": {
+        "qta": 200,
+        "qta_disponibile": 200,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15808030580",
+      "descrizione": "FROR/2 GR 8 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 200,
+        "qta_disponibile": 200,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4803200380",
+      "descrizione": "FS18OR18 450/750 MAR 3X1,50 m.100m",
+      "giacenza": {
+        "qta": 1600,
+        "qta_disponibile": 1600,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4804200380",
+      "descrizione": "FS18OR18 450/750 MAR 4X1,50 m.100m",
+      "giacenza": {
+        "qta": 1700,
+        "qta_disponibile": 1700,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "1580305058015",
+      "descrizione": "FROR/2 GR 3X0,50 A/SPECIFICA m. 100",
+      "giacenza": {
+        "qta": 900,
+        "qta_disponibile": 900,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4904200380",
+      "descrizione": "FS18OR18 450/750 MAR 4G1,50 m.100m",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 4500,
+        "qta_impegnata": 8400
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15803040580",
+      "descrizione": "FROR/2 GR 3 X 0,35 mat.100",
+      "giacenza": {
+        "qta": 1000,
+        "qta_disponibile": 1000,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15202250580194",
+      "descrizione": "FROR/3 GR 2X2,5 NO IMQ.COL.PAT. 100",
+      "giacenza": {
+        "qta": 400,
+        "qta_disponibile": 400,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15202200580194",
+      "descrizione": "FROR/3 GR 2X1,5 NO IMQ COL.PAR. 100",
+      "giacenza": {
+        "qta": 2200,
+        "qta_disponibile": 2200,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "G5408100580",
+      "descrizione": "FRO-HP-OB   GR 8x0,75 DIN m.100m.",
+      "giacenza": {
+        "qta": 300,
+        "qta_disponibile": 300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "G5406100580",
+      "descrizione": "FRO-HP-OB  GR 6x0,75 DIN m 100m",
+      "giacenza": {
+        "qta": 1400,
+        "qta_disponibile": 1400,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15804030580",
+      "descrizione": "FROR/2 GR 4 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 1900,
+        "qta_disponibile": 1600,
+        "qta_impegnata": 300
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107250380",
+      "descrizione": "FS18OR18 MAR 7 G 2,50 mat. 100m",
+      "giacenza": {
+        "qta": 400,
+        "qta_disponibile": 400,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "G5204200580",
+      "descrizione": "FRO-HP-OB   GR 4X1,5 UNEL m.100m",
+      "giacenza": {
+        "qta": 400,
+        "qta_disponibile": 300,
+        "qta_impegnata": 100
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15806030580",
+      "descrizione": "FROR/2 GR 6 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 400,
+        "qta_disponibile": 400,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5112150380",
+      "descrizione": "FS18OR18 MAR 12 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 600,
+        "qta_disponibile": 600,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107150380",
+      "descrizione": "FS18OR18 MAR 7 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 8400,
+        "qta_disponibile": 1800,
+        "qta_impegnata": 6600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5112150380",
+      "descrizione": "FS18OR18 MAR 12 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 600,
+        "qta_disponibile": 600,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15803040580",
+      "descrizione": "FROR/2 GR 3 X 0,35 mat.100",
+      "giacenza": {
+        "qta": 1000,
+        "qta_disponibile": 1000,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5110200380",
+      "descrizione": "FS18OR18 MAR 10 G 1,50 mat. 100m",
+      "giacenza": {
+        "qta": 600,
+        "qta_disponibile": 600,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5003150380",
+      "descrizione": "FS18OR18 MAR 3 X 1 mat. 100m",
+      "giacenza": {
+        "qta": 4400,
+        "qta_disponibile": 4400,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4904200380",
+      "descrizione": "FS18OR18 450/750 MAR 4G1,50 m.100m",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 4500,
+        "qta_impegnata": 8400
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5004150380",
+      "descrizione": "FS18OR18 MAR 4 X 1 mat. 100m",
+      "giacenza": {
+        "qta": 700,
+        "qta_disponibile": 700,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4905200380",
+      "descrizione": "FS18OR18 450/750 MAR 5 G 1,50 m.100",
+      "giacenza": {
+        "qta": 7000,
+        "qta_disponibile": 2500,
+        "qta_impegnata": 4500
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4904250380",
+      "descrizione": "FS18OR18 450/750 MA 4 G 2,50 m.100m",
+      "giacenza": {
+        "qta": 800,
+        "qta_disponibile": 800,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107200380",
+      "descrizione": "FS18OR18 MAR 7 G 1,50 mat. 100m",
+      "giacenza": {
+        "qta": 3300,
+        "qta_disponibile": 3300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5104150380",
+      "descrizione": "FS18OR18 MAR 4 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 200,
+        "qta_disponibile": 200,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5103150380",
+      "descrizione": "FS18OR18 MAR 3 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 4100,
+        "qta_disponibile": 300,
+        "qta_impegnata": 3800
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5103150380",
+      "descrizione": "FS18OR18 MAR 3 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 4100,
+        "qta_disponibile": 300,
+        "qta_impegnata": 3800
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5103150380",
+      "descrizione": "FS18OR18 MAR 3 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 4100,
+        "qta_disponibile": 300,
+        "qta_impegnata": 3800
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4903200380",
+      "descrizione": "FS18OR18 450/750 MAR 3G1,50 m.100",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 1300,
+        "qta_impegnata": 11600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5002150380",
+      "descrizione": "FS18OR18 MAR 2 X 1 mat. 100m",
+      "giacenza": {
+        "qta": 4200,
+        "qta_disponibile": 0,
+        "qta_impegnata": 4200
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5002100380",
+      "descrizione": "FS18OR18 MAR 2 X 0,75 mat. 100m",
+      "giacenza": {
+        "qta": 1300,
+        "qta_disponibile": 1300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15002030580",
+      "descrizione": "FROR/2 GR 2 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 200,
+        "qta_disponibile": 200,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4802200380",
+      "descrizione": "FS18OR18 450/750 MAR 2X1,50 m.100m",
+      "giacenza": {
+        "qta": 800,
+        "qta_disponibile": 800,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4903250380",
+      "descrizione": "FS18OR18 450/750 MAR 3G2,50 m.100m",
+      "giacenza": {
+        "qta": 3500,
+        "qta_disponibile": 2500,
+        "qta_impegnata": 1000
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4802250380",
+      "descrizione": "FS18OR18 450/750 MAR 2X2,50 m.100m",
+      "giacenza": {
+        "qta": 200,
+        "qta_disponibile": 0,
+        "qta_impegnata": 200
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4905200380",
+      "descrizione": "FS18OR18 450/750 MAR 5 G 1,50 m.100",
+      "giacenza": {
+        "qta": 7000,
+        "qta_disponibile": 2500,
+        "qta_impegnata": 4500
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5105150380",
+      "descrizione": "FS18OR18 MAR 5 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 200,
+        "qta_disponibile": 0,
+        "qta_impegnata": 200
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15804030580",
+      "descrizione": "FROR/2 GR 4 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 1900,
+        "qta_disponibile": 1600,
+        "qta_impegnata": 300
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5002100380",
+      "descrizione": "FS18OR18 MAR 2 X 0,75 mat. 100m",
+      "giacenza": {
+        "qta": 1300,
+        "qta_disponibile": 1300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5103100380",
+      "descrizione": "FS18OR18 MAR 3 G 0,75 mat. 100m",
+      "giacenza": {
+        "qta": 1900,
+        "qta_disponibile": 1900,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5002150380",
+      "descrizione": "FS18OR18 MAR 2 X 1 mat. 100m",
+      "giacenza": {
+        "qta": 4200,
+        "qta_disponibile": 0,
+        "qta_impegnata": 4200
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4804250380",
+      "descrizione": "FS18OR18 450/750 MA 4X2,50 m.100m",
+      "giacenza": {
+        "qta": 1000,
+        "qta_disponibile": 1000,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "G5203200580",
+      "descrizione": "FRO-HP-OB   GR 3X1,50 UNEL mat.100m",
+      "giacenza": {
+        "qta": 2000,
+        "qta_disponibile": 2000,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4903200380",
+      "descrizione": "FS18OR18 450/750 MAR 3G1,50 m.100",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 1300,
+        "qta_impegnata": 11600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4903200380",
+      "descrizione": "FS18OR18 450/750 MAR 3G1,50 m.100",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 1300,
+        "qta_impegnata": 11600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4802200380",
+      "descrizione": "FS18OR18 450/750 MAR 2X1,50 m.100m",
+      "giacenza": {
+        "qta": 800,
+        "qta_disponibile": 800,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4905200380",
+      "descrizione": "FS18OR18 450/750 MAR 5 G 1,50 m.100",
+      "giacenza": {
+        "qta": 7000,
+        "qta_disponibile": 2500,
+        "qta_impegnata": 4500
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4904200380",
+      "descrizione": "FS18OR18 450/750 MAR 4G1,50 m.100m",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 4500,
+        "qta_impegnata": 8400
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4904200380",
+      "descrizione": "FS18OR18 450/750 MAR 4G1,50 m.100m",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 4500,
+        "qta_impegnata": 8400
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4904200380",
+      "descrizione": "FS18OR18 450/750 MAR 4G1,50 m.100m",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 4500,
+        "qta_impegnata": 8400
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4905200380",
+      "descrizione": "FS18OR18 450/750 MAR 5 G 1,50 m.100",
+      "giacenza": {
+        "qta": 7000,
+        "qta_disponibile": 2500,
+        "qta_impegnata": 4500
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4903250380",
+      "descrizione": "FS18OR18 450/750 MAR 3G2,50 m.100m",
+      "giacenza": {
+        "qta": 3500,
+        "qta_disponibile": 2500,
+        "qta_impegnata": 1000
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5110150380",
+      "descrizione": "FS18OR18 MAR 10 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 1300,
+        "qta_disponibile": 1300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "15804030580",
+      "descrizione": "FROR/2 GR 4 X 0,25 mat.100 m",
+      "giacenza": {
+        "qta": 1900,
+        "qta_disponibile": 1600,
+        "qta_impegnata": 300
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4903200380",
+      "descrizione": "FS18OR18 450/750 MAR 3G1,50 m.100",
+      "giacenza": {
+        "qta": 12900,
+        "qta_disponibile": 1300,
+        "qta_impegnata": 11600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107200380",
+      "descrizione": "FS18OR18 MAR 7 G 1,50 mat. 100m",
+      "giacenza": {
+        "qta": 3300,
+        "qta_disponibile": 3300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5110150380",
+      "descrizione": "FS18OR18 MAR 10 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 1300,
+        "qta_disponibile": 1300,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107150380",
+      "descrizione": "FS18OR18 MAR 7 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 8400,
+        "qta_disponibile": 1800,
+        "qta_impegnata": 6600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107150380",
+      "descrizione": "FS18OR18 MAR 7 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 8400,
+        "qta_disponibile": 1800,
+        "qta_impegnata": 6600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107150380",
+      "descrizione": "FS18OR18 MAR 7 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 8400,
+        "qta_disponibile": 1800,
+        "qta_impegnata": 6600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107150380",
+      "descrizione": "FS18OR18 MAR 7 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 8400,
+        "qta_disponibile": 1800,
+        "qta_impegnata": 6600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107150380",
+      "descrizione": "FS18OR18 MAR 7 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 8400,
+        "qta_disponibile": 1800,
+        "qta_impegnata": 6600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5107150380",
+      "descrizione": "FS18OR18 MAR 7 G 1 mat. 100m",
+      "giacenza": {
+        "qta": 8400,
+        "qta_disponibile": 1800,
+        "qta_impegnata": 6600
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4903250380",
+      "descrizione": "FS18OR18 450/750 MAR 3G2,50 m.100m",
+      "giacenza": {
+        "qta": 3500,
+        "qta_disponibile": 2500,
+        "qta_impegnata": 1000
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "1500510058031",
+      "descrizione": "FROR/2 GR 5 G 0,75 UNEL mat. 100m",
+      "giacenza": {
+        "qta": 1000,
+        "qta_disponibile": 1000,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P5003150311",
+      "descrizione": "FS18OR18 MAR 3 X 1  bob.1000m",
+      "giacenza": {
+        "qta": 1000,
+        "qta_disponibile": 1000,
+        "qta_impegnata": 0
+      }
+    }
+  },
+  {
+    "parte": {
+      "id": "P4803200310",
+      "descrizione": "FS18OR18 450/750 MAR 3X1,50 b.500m",
+      "giacenza": {
+        "qta": 500,
+        "qta_disponibile": 500,
+        "qta_impegnata": 0
+      }
+    }
+  }
+]

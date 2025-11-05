@@ -5,5 +5,5 @@ z = x
 x = y
 y = z
 
-print(x)
-print(y)
+print('x', x)
+print('y', y)
